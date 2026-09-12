@@ -13,7 +13,7 @@ Protocolos
 * 3 — ICMP
 * Outro número — Protocolo desconhecido
 
-## Linguagem
+Linguagem
 
 O projeto foi desenvolvido em C, utilizando as estruturas básicas solicitadas na atividade:
 
